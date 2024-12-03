@@ -1,10 +1,10 @@
 /* ==UserStyle==
 @name           Catppuccin for Wiki.Tockdom.com
-@namespace      github.com/openstyles/stylus
-@version        1.0.0
-@description    A new userstyle
+@namespace      https://github.com/Riddim-GLiTCH/Catppuccin-Ports
+@version        0.0.1
+@description    Catppuccin for the Custom Mario Kart Wiiki!
 @author         Riddim-GLiTCH
-
+@license MIT
 
 @preprocessor less
 @var select lightFlavor "Light Flavor" ["latte:Latte*", "frappe:Frappé", "macchiato:Macchiato", "mocha:Mocha"]
